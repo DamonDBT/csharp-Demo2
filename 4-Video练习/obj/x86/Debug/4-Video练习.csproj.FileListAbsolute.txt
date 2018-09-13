@@ -1,0 +1,7 @@
+E:\codeStudy\8-C#\Demo2\4-Video练习\bin\Debug\4-Video练习.exe
+E:\codeStudy\8-C#\Demo2\4-Video练习\bin\Debug\4-Video练习.pdb
+E:\codeStudy\8-C#\Demo2\4-Video练习\obj\x86\Debug\_4_Video练习.Form1.resources
+E:\codeStudy\8-C#\Demo2\4-Video练习\obj\x86\Debug\_4_Video练习.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo2\4-Video练习\obj\x86\Debug\4-Video练习.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo2\4-Video练习\obj\x86\Debug\4-Video练习.exe
+E:\codeStudy\8-C#\Demo2\4-Video练习\obj\x86\Debug\4-Video练习.pdb

@@ -1,0 +1,6 @@
+E:\codeStudy\8-C#\Demo2\6-Echart\bin\6-Echart.dll
+E:\codeStudy\8-C#\Demo2\6-Echart\bin\6-Echart.pdb
+E:\codeStudy\8-C#\Demo2\6-Echart\obj\Debug\6-Echart.dll
+E:\codeStudy\8-C#\Demo2\6-Echart\obj\Debug\6-Echart.pdb
+E:\codeStudy\8-C#\Demo2\6-Echart\obj\Debug\6-Echart.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\Demo2\6-Echart\bin\6-Echart.dll.config

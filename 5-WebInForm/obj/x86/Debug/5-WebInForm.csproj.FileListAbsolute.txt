@@ -1,0 +1,8 @@
+E:\codeStudy\8-C#\Demo2\5-WebInForm\bin\Debug\5-WebInForm.exe
+E:\codeStudy\8-C#\Demo2\5-WebInForm\bin\Debug\5-WebInForm.pdb
+E:\codeStudy\8-C#\Demo2\5-WebInForm\obj\x86\Debug\_5_WebInForm.Form1.resources
+E:\codeStudy\8-C#\Demo2\5-WebInForm\obj\x86\Debug\_5_WebInForm.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo2\5-WebInForm\obj\x86\Debug\5-WebInForm.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo2\5-WebInForm\obj\x86\Debug\5-WebInForm.exe
+E:\codeStudy\8-C#\Demo2\5-WebInForm\obj\x86\Debug\5-WebInForm.pdb
+E:\codeStudy\8-C#\Demo2\5-WebInForm\obj\x86\Debug\5-WebInForm.csprojResolveAssemblyReference.cache

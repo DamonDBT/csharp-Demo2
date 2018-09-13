@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        onload = function myfunction() {
+
+        }
+        function addPic() {
+            var pic = document.createElement("img");
+            pic.src = "pic/71-Lze60YUL._SL1100_.jpg";
+            pic.width = 100;
+
+            document.getElementById("myDiv").appendChild(pic);
+        }
+
+        function addText() {
+            var text = document.createElement("input");
+            text.type = "text";
+            text.value = "new text";
+            document.getElementById("myDiv").appendChild(text);
+        }
+
+        function addLine() {
+
+        //会清空之前的内容
+            document.write("  <br />");
+             
+        }
+        function Button1_onclick() {
+
+        }
+
+    </script>
+</head>
+<body>
+    <input type="button" name="addText" id="1" value="添加文本框" onclick="addText()" />
+    <input type="button" name="addPic" id="2" value="添加图片" onclick="addPic()" />
+    <input type="button" name="addLink" id="3" value="添加链接" />
+    <input type="button" name="addLine" id="4" value="添加横线" onclick="addLine()" />
+    <input id="Button1" type="button" value="button" onclick="return Button1_onclick()" />
+    <div id="myDiv">
+    </div>
+</body>
+</html>

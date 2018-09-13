@@ -1,0 +1,8 @@
+E:\codeStudy\8-C#\Demo2\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll.config
+E:\codeStudy\8-C#\Demo2\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll
+E:\codeStudy\8-C#\Demo2\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.pdb
+E:\codeStudy\8-C#\Demo2\MvcApplication1.Tests\bin\Debug\MvcApplication1.dll
+E:\codeStudy\8-C#\Demo2\MvcApplication1.Tests\bin\Debug\MvcApplication1.pdb
+E:\codeStudy\8-C#\Demo2\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\Demo2\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.dll
+E:\codeStudy\8-C#\Demo2\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.pdb

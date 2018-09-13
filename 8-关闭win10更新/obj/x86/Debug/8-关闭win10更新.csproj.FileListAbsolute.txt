@@ -1,0 +1,9 @@
+E:\codeStudy\8-C#\Demo2\8-关闭win10更新\bin\Debug\8-关闭win10更新.exe
+E:\codeStudy\8-C#\Demo2\8-关闭win10更新\bin\Debug\8-关闭win10更新.pdb
+E:\codeStudy\8-C#\Demo2\8-关闭win10更新\obj\x86\Debug\_8_关闭win10更新.Form1.resources
+E:\codeStudy\8-C#\Demo2\8-关闭win10更新\obj\x86\Debug\_8_关闭win10更新.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo2\8-关闭win10更新\obj\x86\Debug\8-关闭win10更新.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo2\8-关闭win10更新\obj\x86\Debug\8-关闭win10更新.exe
+E:\codeStudy\8-C#\Demo2\8-关闭win10更新\obj\x86\Debug\8-关闭win10更新.pdb
+E:\codeStudy\8-C#\Demo2\8-关闭win10更新\bin\Debug\8-关闭win10更新.exe.config
+E:\codeStudy\8-C#\Demo2\8-关闭win10更新\obj\x86\Debug\8-关闭win10更新.csprojResolveAssemblyReference.cache

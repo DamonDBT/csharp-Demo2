@@ -1,0 +1,7 @@
+E:\codeStudy\8-C#\Demo2\Demo2\bin\Debug\Demo2.exe
+E:\codeStudy\8-C#\Demo2\Demo2\bin\Debug\Demo2.pdb
+E:\codeStudy\8-C#\Demo2\Demo2\obj\x86\Debug\Demo2.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo2\Demo2\obj\x86\Debug\Demo2.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo2\Demo2\obj\x86\Debug\Demo2.exe
+E:\codeStudy\8-C#\Demo2\Demo2\obj\x86\Debug\Demo2.pdb
+E:\codeStudy\8-C#\Demo2\Demo2\obj\x86\Debug\Demo2.Form1.resources

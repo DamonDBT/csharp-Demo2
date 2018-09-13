@@ -1,0 +1,7 @@
+E:\codeStudy\8-C#\Demo2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\codeStudy\8-C#\Demo2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\codeStudy\8-C#\Demo2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\codeStudy\8-C#\Demo2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\codeStudy\8-C#\Demo2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

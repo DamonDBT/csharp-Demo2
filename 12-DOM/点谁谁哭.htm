@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript">
+        onload = function myfunction() {
+            for (var i = 1; i < 6; i++) {
+                document.getElementById(i).onclick = function my() {
+                    if (this.value == "哈哈") {
+                        this.value = "呜呜";
+                        return;
+                    }
+                    if (this.value == "呜呜") {
+                        this.value = "哈哈";
+                        return;
+                    }
+
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+<input type="button" value ="哈哈" id="1" />
+<input type="button" value ="哈哈" id="2" />
+<input type="button" value ="哈哈" id="3" />
+<input type="button" value ="哈哈" id="4" />
+<input type="button" value ="哈哈" id="5" />
+</body>
+</html>

@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript">
+        onload = function myfunction() {
+            var v = document.getElementById("add");
+            v.onclick = function add() {
+
+                document.getElementById("text3").value =
+                text3.value = parseInt(document.getElementById("text1").value) + parseInt(document.getElementById("text2").value);
+            }
+        }
+    
+    </script>
+</head>
+<body>
+    <input type="input" id="text1" />
+    <input type="input" id="text2" />
+    <input type="button" id="add" value="计算" />
+    <input type="input" id="text3" />
+</body>
+</html>

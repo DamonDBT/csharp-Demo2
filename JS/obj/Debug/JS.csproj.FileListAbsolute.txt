@@ -1,0 +1,5 @@
+E:\codeStudy\8-C#\Demo2\JS\bin\JS.dll
+E:\codeStudy\8-C#\Demo2\JS\bin\JS.pdb
+E:\codeStudy\8-C#\Demo2\JS\obj\Debug\JS.dll
+E:\codeStudy\8-C#\Demo2\JS\obj\Debug\JS.pdb
+E:\codeStudy\8-C#\Demo2\JS\obj\Debug\JS.csprojResolveAssemblyReference.cache

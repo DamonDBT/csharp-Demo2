@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        var count = 0;
+
+        function myfunction1() {
+
+
+            var ee = document.getElementsByName("text");
+            count++;
+            ee[0].value = count;
+
+
+        }
+
+        function myfunction() {
+            this.keep = 1;
+            var vv = setInterval("myfunction1()", 1000);
+        }
+
+        function stop() {
+            var v = clearInterval("myfunction1()");
+        }
+        onload = function myLoad() {
+            //获取列表
+            var es = document.getElementsByName("button1");
+            //注册事件
+            for (var i = 0; i < es.length; i++) {
+                es[i].onclick = function my() {
+                    alert(ee[i].value);
+                }
+            }
+        }
+       
+    </script>
+    
+</head>
+<body>
+    <input type="button" value="开始计时" id="1" name="button1" />
+    <input type="button" value="停止计时" id="2" name="button1" />
+    <input type="button" value="清零" id="3" name="button1" />
+    <br />
+    <br />
+    <input type="input" value="0" name="text" />
+    <div>
+        一个div</div>
+</body>
+</html>

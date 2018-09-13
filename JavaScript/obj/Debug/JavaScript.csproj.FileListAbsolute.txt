@@ -1,0 +1,4 @@
+E:\codeStudy\8-C#\Demo2\JavaScript\bin\JavaScript.dll
+E:\codeStudy\8-C#\Demo2\JavaScript\bin\JavaScript.pdb
+E:\codeStudy\8-C#\Demo2\JavaScript\obj\Debug\JavaScript.dll
+E:\codeStudy\8-C#\Demo2\JavaScript\obj\Debug\JavaScript.pdb

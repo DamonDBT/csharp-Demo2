@@ -1,0 +1,10 @@
+E:\codeStudy\8-C#\Demo2\7-爬取猎聘网\bin\Debug\7-爬取猎聘网.exe
+E:\codeStudy\8-C#\Demo2\7-爬取猎聘网\bin\Debug\7-爬取猎聘网.pdb
+E:\codeStudy\8-C#\Demo2\7-爬取猎聘网\obj\x86\Debug\_7_爬取猎聘网.dgv.resources
+E:\codeStudy\8-C#\Demo2\7-爬取猎聘网\obj\x86\Debug\_7_爬取猎聘网.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo2\7-爬取猎聘网\obj\x86\Debug\7-爬取猎聘网.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo2\7-爬取猎聘网\obj\x86\Debug\7-爬取猎聘网.exe
+E:\codeStudy\8-C#\Demo2\7-爬取猎聘网\obj\x86\Debug\7-爬取猎聘网.pdb
+E:\codeStudy\8-C#\Demo2\7-爬取猎聘网\bin\Debug\HtmlAgilityPack.dll
+E:\codeStudy\8-C#\Demo2\7-爬取猎聘网\bin\Debug\Newtonsoft.Json.dll
+E:\codeStudy\8-C#\Demo2\7-爬取猎聘网\obj\x86\Debug\7-爬取猎聘网.csprojResolveAssemblyReference.cache

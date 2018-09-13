@@ -1,0 +1,5 @@
+E:\codeStudy\8-C#\Demo2\11-含有PID的加速调节\bin\Debug\11-含有PID的加速调节.exe
+E:\codeStudy\8-C#\Demo2\11-含有PID的加速调节\bin\Debug\11-含有PID的加速调节.pdb
+E:\codeStudy\8-C#\Demo2\11-含有PID的加速调节\obj\x86\Debug\11-含有PID的加速调节.exe
+E:\codeStudy\8-C#\Demo2\11-含有PID的加速调节\obj\x86\Debug\11-含有PID的加速调节.pdb
+E:\codeStudy\8-C#\Demo2\11-含有PID的加速调节\obj\x86\Debug\11-含有PID的加速调节.csprojResolveAssemblyReference.cache

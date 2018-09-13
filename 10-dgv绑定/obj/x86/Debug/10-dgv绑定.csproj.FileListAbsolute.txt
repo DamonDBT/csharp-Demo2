@@ -1,0 +1,7 @@
+E:\codeStudy\8-C#\Demo2\10-dgv绑定\obj\x86\Debug\_10_dgv绑定.Form1.resources
+E:\codeStudy\8-C#\Demo2\10-dgv绑定\obj\x86\Debug\_10_dgv绑定.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo2\10-dgv绑定\obj\x86\Debug\10-dgv绑定.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo2\10-dgv绑定\bin\Debug\10-dgv绑定.exe
+E:\codeStudy\8-C#\Demo2\10-dgv绑定\bin\Debug\10-dgv绑定.pdb
+E:\codeStudy\8-C#\Demo2\10-dgv绑定\obj\x86\Debug\10-dgv绑定.exe
+E:\codeStudy\8-C#\Demo2\10-dgv绑定\obj\x86\Debug\10-dgv绑定.pdb

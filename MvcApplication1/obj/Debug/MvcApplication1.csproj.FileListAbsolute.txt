@@ -1,0 +1,4 @@
+E:\codeStudy\8-C#\Demo2\MvcApplication1\bin\MvcApplication1.dll
+E:\codeStudy\8-C#\Demo2\MvcApplication1\bin\MvcApplication1.pdb
+E:\codeStudy\8-C#\Demo2\MvcApplication1\obj\Debug\MvcApplication1.dll
+E:\codeStudy\8-C#\Demo2\MvcApplication1\obj\Debug\MvcApplication1.pdb

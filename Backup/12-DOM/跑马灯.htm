@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style type="text/css">
+        #msg
+        {
+            position:absolute;         
+            background-color:Green;
+            color:Yellow;
+        }
+    </style>
+    <script type="text/javascript">
+        onload = function myfunction() {
+            setInterval(move1, 200);
+        }
+
+        var count = 0;
+        var flag = 1;
+        function move1() {
+            var vvv = document.getElementById('msg');
+            if (count > window.innerWidth) {
+                flag = -1;
+            }
+            if (count < 0)
+                flag = 1;
+            count += 100*flag;
+            vvv.style.left = count + 'px';
+        }
+    
+    </script>
+</head>
+<body>
+    <div id="msg">
+        跑马灯
+    </div>
+</body>
+</html>

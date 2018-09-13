@@ -1,0 +1,5 @@
+E:\codeStudy\8-C#\Demo2\12-DOM\bin\12-DOM.dll
+E:\codeStudy\8-C#\Demo2\12-DOM\bin\12-DOM.pdb
+E:\codeStudy\8-C#\Demo2\12-DOM\obj\Debug\12-DOM.dll
+E:\codeStudy\8-C#\Demo2\12-DOM\obj\Debug\12-DOM.pdb
+E:\codeStudy\8-C#\Demo2\12-DOM\obj\Debug\12-DOM.csprojResolveAssemblyReference.cache

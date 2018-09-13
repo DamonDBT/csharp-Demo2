@@ -1,0 +1,7 @@
+E:\codeStudy\8-C#\Demo2\3-sql连接字符串生成工具\bin\Debug\3-sql连接字符串生成工具.exe
+E:\codeStudy\8-C#\Demo2\3-sql连接字符串生成工具\bin\Debug\3-sql连接字符串生成工具.pdb
+E:\codeStudy\8-C#\Demo2\3-sql连接字符串生成工具\obj\x86\Debug\_3_sql连接字符串生成工具.Form1.resources
+E:\codeStudy\8-C#\Demo2\3-sql连接字符串生成工具\obj\x86\Debug\_3_sql连接字符串生成工具.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo2\3-sql连接字符串生成工具\obj\x86\Debug\3-sql连接字符串生成工具.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo2\3-sql连接字符串生成工具\obj\x86\Debug\3-sql连接字符串生成工具.exe
+E:\codeStudy\8-C#\Demo2\3-sql连接字符串生成工具\obj\x86\Debug\3-sql连接字符串生成工具.pdb
